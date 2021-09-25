@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/backend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/originalsite/jamstack-ecommerce-course" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/var_x" vcs="Git" />
   </component>
 </project>
